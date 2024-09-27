@@ -1,2 +1,48 @@
 - favicon 
 - remix icon is icon library
+
+----- nav bar -----
+Home | About Me | Skills | Projects | Experience | Blog (Optional) | Contact | Footer
+คิดว่า โปรเจค กับ experience ยุบรวมกันได้
+
+1. Home / Introduction
+Content: A brief introduction with your name, a short bio, and your current role. Mention that you're a software engineer with a background in electrical engineering.
+Details: Include a professional photo, a tagline (e.g., "Software Engineer with Electrical Engineering Expertise"), and a call to action (like a button to view your work or contact you).
+2. About Me
+Content: A more detailed overview of your background.
+Details:
+Educational background (mention your degree in electrical engineering).
+Transition to software engineering and why you made the switch.
+Highlight your determination and the skills you’ve developed over the past year.
+3. Skills
+Content: A list of your technical skills.
+Details:
+Programming languages (e.g., Java, Golang, JavaScript).
+Tools and technologies (e.g., React, Azure Data Factory).
+Software engineering practices and methodologies you're familiar with.
+4. Projects
+Content: Showcase your work by listing your most significant projects.
+Details:
+For each project, include a title, brief description, technologies used, and your role in the project.
+Add links to live demos or GitHub repositories if applicable.
+Consider including a project that highlights your background in electrical engineering if relevant.
+5. Experience
+Content: Details of your professional experience.
+Details:
+Current job title, company, and duration of employment.
+Key responsibilities and achievements in your software engineering role.
+Any relevant experience or internships related to your electrical engineering background.
+6. Blog (Optional)
+Content: A section for writing about topics you are passionate about, such as software engineering, sustainability, or transitioning from electrical to software engineering.
+Details: Regular posts on challenges, solutions, and learnings can demonstrate your expertise and engagement in the field.
+7. Contact
+Content: A way for visitors to get in touch with you.
+Details:
+Include a contact form, email address, and links to your LinkedIn profile, GitHub, or other professional social media.
+You can also add a downloadable resume.
+8. Footer
+Content: General information and links.
+Details:
+Links to other sections of your site.
+Social media icons.
+Copyright information.
